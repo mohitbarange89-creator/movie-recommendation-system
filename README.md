@@ -12,6 +12,7 @@ Fast and lightweight project
 
 
 🛠️ Technologies Used
+
 Python
 Pandas
 NumPy
