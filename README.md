@@ -52,10 +52,15 @@ Streamlit frontend displays recommendations with posters.
 ▶️ Installation
 
 Open Project Folder
+
 cd movie-recommendation-system
+
 Install Requirements
+
 pip install -r requirements.txt
+
 Run Project
+
 streamlit run app.py
 
 
@@ -64,7 +69,9 @@ streamlit run app.py
 Select a movie from dropdown
 Click on Recommend button
 Top similar movies with posters will be displayed
+
 💡 Future Improvements
+
 Add user login system
 Add collaborative filtering
 Improve UI design
